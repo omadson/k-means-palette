@@ -61,7 +61,7 @@ if imagem:
         col2.code(f"{cores_hex}")
         
         col2.download_button(
-            "Download",
+            "Baixar paleta!",
             save(figura),
             "paleta.png",
             'image/png'
